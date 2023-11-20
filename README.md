@@ -33,7 +33,7 @@ Custom Port
 ENTRYPOINT_PORT=129
 ```
 
-Custom Port
+Instal Go
 ```bash
 cd $HOME
 wget https://snapshots.moonbridge.team/testnet/entrypoint/entrypointd
